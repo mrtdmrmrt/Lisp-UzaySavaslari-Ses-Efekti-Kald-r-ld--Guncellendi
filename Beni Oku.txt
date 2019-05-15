@@ -1,0 +1,8 @@
+1-Öncelikle DrRacket programýnzýn yüklü olup olmadýðýný kontrol edin. 
+2-Daha sonra kodlarý çalýþtýrmadan önce diðer klasörlerin yani foto,sarki klasörlerin ve kodlarýn ayný dosya da olduðunu kontrol edin. 
+3-Kodu çalýþtýrmadan önce gerekli kütüphanelerin yüklü olup olmadýðýný kontrol edin. 
+4-Language sekmesinden Choose Language'ye týklayýn The Racket Language'yi seçin. 
+5-Kontroller sonrasý oyunu baþlata bilirsiniz. 
+6-Unutmayýn fare sol týk ateþ eder.Gemiyi hareket ettrimek için fareyi saða vo sola sürükleyin. 
+7-Klavyeden ise sað ve sol yön tuþlarý hareket için çalýþýr.Ateþ etmek için Space(Boþluk) tuþuna basmanýz yeterli olacaktýr. 
+9-Ýyi Oyunlar...
