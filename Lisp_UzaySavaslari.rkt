@@ -789,8 +789,11 @@
 0 0 24 29 1 #"\n"
 0 0 17 3 17 #";Uzay Sava\305\237lar\304\261"
 0 0 24 29 1 #"\n"
-0 0 17 3 54 #";https://github.com/mrtdmrmrt/Lisp-UzaySavaslari-Oyunu"
-0 0 24 29 1 #"\n"
+0 0 17 3 82
+(
+ #";https://github.com/mrtdmrmrt/Lisp-UzaySavaslari-Ses-Efekti-Kald-r-l"
+ #"d--Guncellendi"
+) 0 0 24 29 1 #"\n"
 0 0 17 3 12 #";Mert DEM\304\260R"
 0 0 24 29 1 #"\n"
 0 0 24 29 1 #"\n"
